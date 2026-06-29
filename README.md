@@ -45,9 +45,7 @@ Work through the folders in the order listed below — each one has its own `REA
 
 ## Stuck?
 
-It happens — especially in hands-on labs on shared Wi-Fi. Look here in order:
-
-1. **Raise a hand.** The facilitator is walking the room during every lab. Don't spend more than five minutes stuck.
+**Raise a hand.** Facilitators will be in the room during every lab. Don't spend more than five minutes stuck.
 
 ---
 
