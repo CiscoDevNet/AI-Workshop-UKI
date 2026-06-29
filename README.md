@@ -18,11 +18,11 @@ Everything we do today comes back to these three ideas:
 
 Work through the folders in the order listed below — each one has its own `README.md` that orients you when you arrive.
 
-1. **[`Session 1/`](./Session%201/)** — What an LLM actually is, what MCP and RAG mean in plain English, and a short group activity.
-2. **[`Session 2/`](./Session%202/)** — Your first hands-on lab: a local AI assistant in Jan AI, connected to live web search and your own files. The `lab_guide.md` is your main companion here.
-3. **[`Session 3/`](./Session%203/)** — From assistant to agent. You'll configure Jan AI Projects, run the ARK Industries IT Policy Intelligence Agent, and design a use case of your own.
-4. **[`Session 4/`](./Session%204/)** — The risks, the guardrails, and where Cisco AI Access and AI Defense fit in.
-5. **[`Takeaways/`](./Takeaways/)** — The most important folder. Your Monday-morning action plan, a manager brief email template, and next-step learning resources. This is what survives past 4:30.
+1. **[`Session 1`](./Session%201/)** — What an LLM actually is, what MCP and RAG mean in plain English, and a short group activity.
+2. **[`Session 2`](./Session%202/)** — Your first hands-on lab: a local AI assistant in Jan AI, connected to live web search and your own files. The `lab_guide.md` is your main companion here.
+3. **[`Session 3`](./Session%203/)** — From assistant to agent. You'll configure Jan AI Projects, run the ARK Industries IT Policy Intelligence Agent, and design a use case of your own.
+4. **[`Session 4`](./Session%204/)** — The risks, the guardrails, and where Cisco AI Access and AI Defense fit in.
+5. **[`Takeaways`](./Takeaways/)** — The most important folder. Your Monday-morning action plan, a manager brief email template, and next-step learning resources. This is what survives past 4:30.
 
 ---
 
@@ -31,15 +31,15 @@ Work through the folders in the order listed below — each one has its own `REA
 | Time | Session | Where to look |
 |---|---|---|
 | 09:00–09:30 | Welcome & Introductions | You're here ✅ |
-| 09:30–11:00 | **Session 1 — AI Fundamentals** | [`Session 1/`](./Session%201/) |
+| 09:30–11:00 | **Session 1 — AI Fundamentals** | [`Session 1`](./Session%201/) |
 | 11:00–11:15 | Break ☕ | — |
-| 11:15–12:30 | **Session 2 — Building AI Assistants** | [`Session 2/`](./Session%202/) |
+| 11:15–12:30 | **Session 2 — Building AI Assistants** | [`Session 2`](./Session%202/) |
 | 12:30–13:00 | Lunch 🍽️ | — |
-| 13:00–14:30 | **Session 3 — Building Agentic AI** | [`Session 3/`](./Session%203/) |
+| 13:00–14:30 | **Session 3 — Building Agentic AI** | [`Session 3`](./Session%203/) |
 | 14:30–14:45 | Break ☕ | — |
-| 14:45–16:00 | **Session 4 — Securing AI** | [`Session 4/`](./Session%204/) |
+| 14:45–16:00 | **Session 4 — Securing AI** | [`Session 4`](./Session%204/) |
 | 16:00–16:30 | General Discussion & Q&A | — |
-| Take home | **Your Monday-morning kit** | [`Takeaways/`](./Takeaways/) |
+| Take home | **Your Monday-morning kit** | [`Takeaways`](./Takeaways/) |
 
 ---
 
